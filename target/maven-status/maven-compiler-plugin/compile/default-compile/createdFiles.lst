@@ -1,0 +1,6 @@
+me\meowquantum\com\mrangos\MRangos.class
+me\meowquantum\com\mrangos\Commands\CommandManager.class
+me\meowquantum\com\mrangos\Managers\HistorialManager.class
+me\meowquantum\com\mrangos\Managers\HistorialManager$1.class
+me\meowquantum\com\mrangos\Managers\LuckPermsManager.class
+me\meowquantum\com\mrangos\Listener\JoinListener.class

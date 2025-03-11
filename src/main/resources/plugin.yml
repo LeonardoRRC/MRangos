@@ -1,0 +1,7 @@
+name: MRangos
+version: '${project.version}'
+main: me.meowquantum.com.mrangos.MRangos
+depend:
+  - LuckPerms
+commands:
+  mrangos:
