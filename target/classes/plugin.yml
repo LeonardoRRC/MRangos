@@ -1,7 +1,0 @@
-name: MRangos
-version: '1.0-SNAPSHOT'
-main: me.meowquantum.com.mrangos.MRangos
-depend:
-  - LuckPerms
-commands:
-  mrangos:
